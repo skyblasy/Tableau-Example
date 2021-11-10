@@ -1,6 +1,6 @@
 # Tableau-Example
 
-Sandbox project demonstrating the power of Tableau in creating interactive dashboards by making use of filters which allows a high level of granularity. The data is a mock dataset that includes banking and deposit data for Northern Ireland, Scotland, England, and Wales. The data also includes depositors age and categories for profession. 
+Sandbox project demonstrating the power of Tableau in creating interactive dashboards by making use of filters which allows a high level of granularity. The data is a mock dataset that includes banking and deposit data for Northern Ireland, Scotland, England, and Wales. The data also includes depositors age and categories per profession. 
 
 #### Example of selecting an area and getting banking data for that region.
 ![me](https://github.com/skyblasy/Tableau-Example/blob/main/countries.gif)
